@@ -1,10 +1,10 @@
 {
   "name": "Diffusion List",
-  "timestamp": "2022-05-01T00:00:00.000Z",
+  "timestamp": "2022-10-11T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 17,
-    "minor": 3,
+    "major": 18,
+    "minor": 0,
     "patch": 0
   },
   "tokens": [
@@ -33,6 +33,22 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
     },
     {
+      "name": "Juno",
+      "symbol": "JUNO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+      "logoURI": "https://assets.coingecko.com/coins/images/19249/small/juno.png"
+    },
+    {
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+      "logoURI": "https://assets.coingecko.com/coins/images/22363/small/stars.png"
+    },
+    {
       "name": "Diffusion",
       "symbol": "DIFF",
       "chainId": 9001,
@@ -49,7 +65,31 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
     },
     {
-      "name": "ibc GRAV",
+      "name": "USD Coin - Axelar",
+      "symbol": "axlUSDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped Ether - Axelar",
+      "symbol": "axlWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC - Axelar",
+      "symbol": "axlWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "Gravity",
       "symbol": "GRAV",
       "chainId": 9001,
       "decimals": 6,
@@ -64,13 +104,37 @@
       "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
-      {
+    {
+      "name": "Wrapped BTC - Gravity",
+      "symbol": "gWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
       "name": "USD Coin - Gravity",
       "symbol": "gUSDC",
       "chainId": 9001,
       "decimals": 6,
       "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin - Gravity",
+      "symbol": "gDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Tether USD - Gravity",
+      "symbol": "gUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
     {
       "name": "Dai Stablecoin - Nomad",
