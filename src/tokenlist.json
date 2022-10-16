@@ -3,7 +3,7 @@
   "timestamp": "2022-10-11T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   },
@@ -343,6 +343,14 @@
       "decimals": 18,
       "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/oav.png"
+    },
+    {
+      "name": "Evmos Domains",
+      "symbol": "EVD",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
+      "logoURI": "https://assets.coingecko.com/coins/images/27785/small/evmos-domains.png?1665798992"
     },
     {
       "name": "MOCK USDC",
