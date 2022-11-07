@@ -3,7 +3,7 @@
   "timestamp": "2022-10-11T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 19,
+    "major": 20,
     "minor": 0,
     "patch": 0
   },
@@ -351,6 +351,14 @@
       "decimals": 18,
       "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
       "logoURI": "https://assets.coingecko.com/coins/images/27785/small/evmos-domains.png?1665798992"
+    },
+    {
+      "name": "Arable Protocol",
+      "symbol": "ACRE",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+      "logoURI": "https://mvp.arable.finance/public/assets/tokens/acre_token.png"
     },
     {
       "name": "MOCK USDC",
