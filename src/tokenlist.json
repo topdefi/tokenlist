@@ -9,8 +9,8 @@
   },
   "tokens": [
     {
-      "name": "Wrapped Evmos",
-      "symbol": "WEVMOS",
+      "name": "Wrapped FNB",
+      "symbol": "WFNB",
       "chainId": 9001,
       "decimals": 18,
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
