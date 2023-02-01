@@ -1,0 +1,28 @@
+{
+  "name": "ArcSwap List",
+  "timestamp": "2022-10-11T00:00:00.000Z",
+  "logoURI": "https://raw.githubusercontent.com/topdefi/assets/master/blockchains/arc/info/logo.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Wrapped ARC",
+      "symbol": "WARC",
+      "chainId": 1243,
+      "decimals": 18,
+      "address": "0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A",
+      "logoURI": "https://raw.githubusercontent.com/topdefi/assets/master/blockchains/arc/assets/0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A/logo.png"
+    },
+    {
+      "name": "Wrapped ARC",
+      "symbol": "WARC",
+      "chainId": 1244,
+      "decimals": 18,
+      "address": "0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A",
+      "logoURI": "https://raw.githubusercontent.com/topdefi/assets/master/blockchains/exzo/assets/0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A/logo.png"
+    }
+  ]
+}
