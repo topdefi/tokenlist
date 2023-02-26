@@ -13,8 +13,8 @@
       "symbol": "WARC",
       "chainId": 1243,
       "decimals": 18,
-      "address": "0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A",
-      "logoURI": "https://raw.githubusercontent.com/topdefi/assets/master/blockchains/arc/assets/0x73872d6fBbD50B64671e917E9d87B7E72fa7d63A/logo.png"
+      "address": "0x9000688B5C45b9a37e89C33D9033C9073d1913f7",
+      "logoURI": "https://raw.githubusercontent.com/topdefi/assets/master/blockchains/arc/assets/0x9000688B5C45b9a37e89C33D9033C9073d1913f7/logo.png"
     },
     {
       "name": "Wrapped ARC",
