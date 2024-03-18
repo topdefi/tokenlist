@@ -1,6 +1,7 @@
 {
-  "name": "Community List",
+  "name": "DexSwitch List",
   "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://app.dexswitch.com/favicon.png",
   "version": {
     "major": 2,
     "minor": 1,
@@ -8,27 +9,52 @@
   },
   "tokens": [
     {
-      "name": "Evmos Doge",
-      "symbol": "eDOGE",
+      "name": "Wrapped EVMOS",
+      "symbol": "WEVMOS",
       "chainId": 9001,
-      "decimals": 5,
-      "address": "0x93D8c966d8dD358fe5146ad3067a0414f25f7F5B",
-      "logoURI": "https://raw.githubusercontent.com/OxGAB/eDoge/main/eDoge_logo.png"
-    },   {
-      "name": "Evmos Frens",
-      "symbol": "eFrens",
-      "chainId": 9001,
-      "decimals": 9,
-      "address": "0x9a42dc12b9Dc20a59cB1Ff077DD283Cf5E61D768",
-      "logoURI": "https://raw.githubusercontent.com/AI0xFrens/NeuralAI/main/evmosFrens.png"
+      "decimals": 18,
+      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
     },
     {
-      "name": "BurnEvmos",
-      "symbol": "BurnEvmos",
+      "name": "USD Coin - Gravity",
+      "symbol": "gUSDC",
       "chainId": 9001,
-      "decimals": 9,
-      "address": "0x9E7dDF92e7de1B44BAFEdcECCe42Bd5FA7732926",
-      "logoURI": "https://raw.githubusercontent.com/burnevmos/burnevmos/main/burnevmoswhite.png"
+      "decimals": 6,
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD - Gravity",
+      "symbol": "gUSDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "name": "Dai Stablecoin - Gravity",
+      "symbol": "gDAI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether - Gravity",
+      "symbol": "gWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC - Gravity",
+      "symbol": "gWBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
     }
   ]
 }
